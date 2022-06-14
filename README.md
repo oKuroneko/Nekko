@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oKuroneko
+- 👋 Hi, I’m Nekko
 - 👀 I’m interested in discord bot
 - 🌱 I’m currently learning how to create DC Bot
 - 💞️ I’m looking to collaborate on create DC Bot
